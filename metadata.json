@@ -1,0 +1,6 @@
+{
+  "name": "Avocado Media Player",
+  "description": "Offline Android-first media player with modern minimal dark interface, VLC-grade codec playback, 10-band equalizer, subtitle synchronization, gesture controls, and open-source architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

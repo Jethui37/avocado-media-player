@@ -1,0 +1,12 @@
+{
+  "appId": "org.avocado.mediaplayer",
+  "appName": "Avocado Media Player",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#050705",
+    "allowMixedContent": false
+  }
+}
